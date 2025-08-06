@@ -6,7 +6,7 @@ Utiliza la biblioteca `CsvHelper` para un análisis robusto de CSV y `System.Tex
 
 ## Requisitos
 
-- .NET 8 SDK o una versión posterior.
+- .NET 9 SDK o una versión posterior.
 
 ## Cómo se utiliza
 
